@@ -1,9 +1,11 @@
 OWNERDOMAIN=iclassed.com
 
-#Google AdSense
+#Sources of ads
+
+#Google
 google.com, pub-1227464577727787, DIRECT, f08c47fec0942fa0
 
-#Via Disqus
+#Disqus
 disqus.com, 4869174, DIRECT
 zetaglobal.net, 100, DIRECT
 amxrtb.com, 105199574, DIRECT
