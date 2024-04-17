@@ -1,6 +1,6 @@
 OWNERDOMAIN=iclassed.com
 
-#Sources of ads
+#Sources of ads serves in subdomains, iclassed.com
 
 #Google
 google.com, pub-1227464577727787, DIRECT, f08c47fec0942fa0
